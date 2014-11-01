@@ -78,7 +78,7 @@ int main()
 		EdgeList.clear();
 
 		// Read the initial configurations and calculate their differences
-		// with the initial state 0000 and we save the minimun
+		// with the initial state 0000 and we save the minimum
 		for(i = 0; i < n; i++)
 		{
 			scanf("%s", keys[i]);
