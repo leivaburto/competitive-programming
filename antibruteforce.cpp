@@ -41,7 +41,7 @@ int isSameSet(int i, int j)
 	return (findSet(i) == findSet(j));
 }
 
-// Calculate how many rolls are from 1 configuration to another
+// Calculate how many rolls are from one configuration to another
 int total_rolls(char *key1, char *key2)
 {
 	int i, a, b, rolls = 0;
@@ -78,7 +78,7 @@ int main()
 		EdgeList.clear();
 
 		// Read the initial configurations and calculate their differences
-		// with the initial state (0000)
+		// with the initial state 0000 and we save the minimun
 		for(i = 0; i < n; i++)
 		{
 			scanf("%s", keys[i]);
@@ -98,7 +98,7 @@ int main()
 			}
 		}
 
-		// Kruskal
+		// KEEP CALM and Kruskal
 		initSet(n);		
 		sort(EdgeList.begin(), EdgeList.end());
 
