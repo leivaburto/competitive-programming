@@ -1,7 +1,7 @@
 /*
  * UVA 10264 The Most Potent Corner
  * http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1205
- * Bitmask
+ * Bitmask 
  *
  */
 #include <iostream>
