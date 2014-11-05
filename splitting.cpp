@@ -1,7 +1,7 @@
 /*
  * UVA 11933 Splitting Numbers
  * http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3084
- * Bit manipulation
+ * Bit manipulation 
  *
  */
 #include <iostream>
