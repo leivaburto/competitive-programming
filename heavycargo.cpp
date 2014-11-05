@@ -1,7 +1,7 @@
 /*
  * UVA 544 Heavy Cargo
  * http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=485
- * Minimax
+ * Maximin
  *
  */
 #include <iostream>
