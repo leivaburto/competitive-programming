@@ -1,7 +1,7 @@
 /*
  * UVA 12356 Army Buddies
  * http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3778
- * 1D Array. Fast solution is required
+ * 1D Array. Fast solution is required 
  *
  */
 #include <cstdio>
