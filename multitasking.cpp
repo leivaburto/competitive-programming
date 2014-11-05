@@ -1,7 +1,7 @@
 /*
  * UVA 11926 Multitasking
  * http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3077
- * Boolean arrays (or bitsets) 
+ * Boolean arrays (or bitsets)
  *
  */
 #include <iostream>
