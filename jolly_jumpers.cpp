@@ -1,7 +1,7 @@
 /*
  * UVA 10038 Jolly Jumpers
  * http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=979
- * Boolean mapping of the differences
+ * Boolean mapping of the differences 
  *
  */
 #include <iostream>
