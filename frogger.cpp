@@ -66,7 +66,7 @@ double dfs(int u, int v)
 				return AdjList[u][i].second;
 			else
 			{
-				// Save the max (the values are negative so we are actually getting the min)
+				// Save the max 
 				x = dfs(AdjList[u][i].first, v);
 				if(x != -1.0)
 					weight = max(weight, max(x, AdjList[u][i].second));
